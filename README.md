@@ -1,5 +1,3 @@
-# Calendar
-
 
   <h1>금연 어플 달력</h1>
   <p>개발환경 : Window 운영체제, Node.js로 express 웹 프레임워크를 사용</p>
