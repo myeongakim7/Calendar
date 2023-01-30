@@ -1,8 +1,12 @@
 
   <h1>금연 어플 달력</h1>
+  <hr>
+   <h4>cloudtype : https://port-0-damdamv2-4fuvwk25lcstd4fc.gksl2.cloudtype.app/ </h4>
+  <hr>
   <p>개발환경 : Window 운영체제, Node.js로 express 웹 프레임워크를 사용</p>
   <p>개발언어 : ejs, jquery, javaSript</p>
   <p>응용기술: DB.json을 생성해 서버에서 프론트엔드로 전달</p>
+ 
 
   <h3>주요 기능 소개</h3>
   <ul>
